@@ -5,6 +5,7 @@ Phone:
 +375333284952 (mobile)
 email: 
 pobozhny94@gmail.com
+viktar.pabozhny@lphc.by
 ##### Info:
 I'm 26 years old. I live in Minsk, Belarus. Now I work mechanical engineer. At summer I will graduate BSTU.
 ##### Skills:
