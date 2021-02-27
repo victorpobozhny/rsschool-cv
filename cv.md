@@ -22,6 +22,6 @@ const func = (a, b) => {
 Unfortunately I don't have any experience in IT.
 ##### Education:
 School: 2000-2011, Colledge: 2012-2015, University: 2015 - now.
-Computer Science Basics by Vitali Shulha, EPAM.
+Computer Science Basics by Vitali Shulha, EPAM, 2021.
 ##### English level:
 Pre-Intermediate.
