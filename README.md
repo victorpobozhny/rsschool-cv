@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/victorpobozhny/rsschool-cv/blob/rsschool-cv-html/index
+https://github.com/victorpobozhny/rsschool-cv/blob/rsschool-cv-html/index.html
